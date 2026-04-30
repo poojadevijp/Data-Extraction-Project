@@ -12,5 +12,4 @@ for line in lines[1:]:
 print("All transaction amounts:")
 print(amounts)
 
-print("\nTotal amount:")
-print(sum(amounts))
+
